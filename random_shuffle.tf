@@ -11,6 +11,7 @@ resource "random_shuffle" "redisgeek" {
     "East US 2",
     "East US 2 EUAP",
     "West Europe",
-    "West US 2"]
+    "West US 2"
+  ]
   result_count = 1
 }
