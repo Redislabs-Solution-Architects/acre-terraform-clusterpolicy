@@ -1,4 +1,5 @@
 resource "random_shuffle" "redisgeek" {
+  # Regions with 3 AZs
   input = [
     "Australia East",
     "Central US",
